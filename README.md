@@ -6,6 +6,9 @@
 
 # ANODEUS DIABLO<img src="https://c.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif" width="55px">
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=anodeus&style=flat-square" alt="anodeus"/><br></p>
+
+
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/images/862605660c673bda3ed7cf13e20adeaf/tenor.gif">
