@@ -1,4 +1,4 @@
-### Hi, I'm Anodeus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Anodeus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://media.tenor.com/images/3d8910b08a8053d27e606f12d45c6bb2/tenor.gif" width="25px">
 
 
 
