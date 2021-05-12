@@ -1,8 +1,12 @@
 ### Hi, I'm Anodeus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=anodeus&label=Views&color=blue&style=plastic" alt="digvijay173" />
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="anodeus" />
  </p>
+
+
+
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+
 ## Your short description
 - 🔭 I’m currently working on - ❔❔❔❔
 - 🌱 I’m currently learning - ❔❔❔❔
