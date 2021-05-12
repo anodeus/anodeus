@@ -121,9 +121,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  
 
    
-<a href="https://github.com/anodeus">
-  [![Abhi's github stats](https://github-readme-stats.vercel.app/api?username=anodeus&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
+  [![Abhi's github stats](https://github-readme-stats.vercel.app/api?username=anodeus&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+<a href="https://github.com/anodeus">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodeus&theme=light&hide_langs_below=1" />
 </a>
 
