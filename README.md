@@ -101,10 +101,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
    
 
  <a href="https://github.com/anodeus">
- <img hight="320" width="450" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodeus&theme=radical&hide_langs_below=1" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodeus&theme=radical&hide_langs_below=1" />
  
 
- <img hight="320" width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=anodeus&count_private=true&include_all_commits=true&theme=radical" />
+ <img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=anodeus&count_private=true&include_all_commits=true&theme=radical" />
 
 
   
