@@ -40,7 +40,7 @@
 
 
 ##abhi_singh
-# ANODEUS DIABLO 👋
+# ANODEUS DIABLO 👋<img src="https://media.tenor.com/images/6a2753318812aacbd5d2e380cd2c075a/tenor.gif" width="35px">
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/images/862605660c673bda3ed7cf13e20adeaf/tenor.gif">
