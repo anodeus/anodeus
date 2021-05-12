@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.giphy.com/media/atII4f3Oovtx6/200w.webp?cid=ecf05e47yfghmua9p0nceyctye9mlzmuund0ufqqrqtgpnyz&rid=200w.webp&ct=g">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/atII4f3Oovtx6/giphy.gif">
 </div>
 
 
