@@ -4,7 +4,7 @@
 
 
 
-# ANODEUS DIABLO<img src="https://c.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif" width="55px"><img align="center" src="https://komarev.com/ghpvc/?username=username&style=flat-square" alt="anodeus"/>
+# ANODEUS DIABLO<img src="https://c.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif" width="55px"><img src="https://komarev.com/ghpvc/?username=username&style=flat-square" alt="anodeus"/>
 
 
 
