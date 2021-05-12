@@ -17,7 +17,7 @@
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 <a href="https://github.com/USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodeus&theme=light&hide_langs_below=1" />
 </a>
 
 [![Abhi's github stats](https://github-readme-stats.vercel.app/api?username=anodeus&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
