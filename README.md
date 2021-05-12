@@ -55,7 +55,7 @@
 
 ### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://gifs.alphacoders.com/gifs/view/2535">
+<img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/140/14018.gif">
 
 ### - Learning :
 - ✨ Web Developing
