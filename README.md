@@ -98,6 +98,18 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 <a href="https://www.linkedin.com/in/abhi-singh-as/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/anodeus/anodeus/blob/main/assets/icons/linkedin.png" />
+ [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+
+[website]: https://google.com
+[twitter]: https://twitter.com/
+[linkedin]: https://www.linkedin.com/in/abhi-singh-as/
+
+
+
 </br>
 </br>
 </br>
