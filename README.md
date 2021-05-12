@@ -43,7 +43,7 @@
 # ANODEUS DIABLO 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/anodeus/anodeus/blob/main/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://giffiles.alphacoders.com/253/2535.gif">
 </div>
 
 </br>
