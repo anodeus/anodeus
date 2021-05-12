@@ -16,7 +16,7 @@
 
 
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/anodeus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodeus&theme=light&hide_langs_below=1" />
 </a>
 
@@ -27,11 +27,8 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- This section you create this variables that are used above -->
+
+
 [website]: https://google.com
 [twitter]: https://twitter.com/
 [linkedin]: https://www.linkedin.com/in/abhi-singh-as/
