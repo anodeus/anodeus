@@ -40,7 +40,7 @@
 
 
 ##abhi_singh
-# ANODEUS DIABLO<img src="https://c.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="55px">
+# ANODEUS DIABLO<img src="https://c.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif" width="55px">
  👋<img src="https://media.tenor.com/images/6a2753318812aacbd5d2e380cd2c075a/tenor.gif" width="55px">
 
 <div align="center">
