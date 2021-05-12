@@ -43,7 +43,7 @@
 # ANODEUS DIABLO 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://giffiles.alphacoders.com/253/2535.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/images/862605660c673bda3ed7cf13e20adeaf/tenor.gif">
 </div>
 
 </br>
