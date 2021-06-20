@@ -105,21 +105,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  
 
  <img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=anodeus&count_private=true&include_all_commits=true&theme=radical" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=anodeus&theme=dark" width=97% >
-
-
-
-
-  
-
-
-
-
-
 </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anodeus&theme=dark" width=97% >
 
 
-
 </br>
 </br>
 </br>
@@ -134,6 +123,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+
 </br>
 
 
