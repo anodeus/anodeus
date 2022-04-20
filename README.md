@@ -25,14 +25,14 @@
 
 # About ME 💬 :
 
-### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 19 years old Full Stack Developer & Cyber Security Enthusiast from India.
 
 <img hight="320" width="450" alt="GIF" align="right" src="https://giffiles.alphacoders.com/140/14018.gif">
 
 ### - Learning :
 - ✨ Web Developing
 - ✨ Python
-- ✨ SQL
+- ✨ C++
 
 ### - Hobbies : 
 - ✨ Gaming Addict
