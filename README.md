@@ -112,8 +112,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anodeus&theme=dark" width=97% >
 
 
-</br>
-</br>
-
 
 
