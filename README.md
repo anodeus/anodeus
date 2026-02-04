@@ -85,7 +85,7 @@ func main() {
     <img 
       src="https://tryhackme-badges.s3.amazonaws.com/an0deu5.png"
       alt="TryHackMe Badge" 
-      width="350"
+      width="500"
     />
   </a>
 </p>
