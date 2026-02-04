@@ -93,16 +93,7 @@ func main() {
 
 ----
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile Stats
 
-
-<p align="center">
-<a href="https://github.com/anodeus"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodeus&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=anodeus&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
-</p>
-
-- Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
-----
 
 ### 📊 GitHub Profile Stats
 <p align="center">
