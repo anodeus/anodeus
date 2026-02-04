@@ -84,6 +84,16 @@ func main() {
   </a>
 </p>
 
+### 🏆 TryHackMe Profile
+
+<p align="center">
+  <a href="https://tryhackme.com/p/amajaying3">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/amajaying3.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+
+
 ----
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile Stats
