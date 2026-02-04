@@ -84,15 +84,15 @@ func main() {
   </a>
 </p>
 
-
 ### 🏆 TryHackMe Profile
 
 <p align="center">
-  <iframe 
-    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3239187"
-    style="border:none; width:340px; height:100px;"
-    scrolling="no">
-  </iframe>
+  <a href="https://tryhackme.com/p/an0deu5">
+    <img 
+      src="https://tryhackme-badges.s3.amazonaws.com/an0deu5.png"
+      alt="TryHackMe Badge" 
+    />
+  </a>
 </p>
 
 
